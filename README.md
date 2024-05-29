@@ -24,3 +24,7 @@ Please only use within a VM
 # Educational Purposes only
 
 Please don't use this for nefarious purposes, it's just a funny side project
+
+there's a couple modules you need to install, which i'm too lazy to write out.
+
+But if you geniunely don't know how I don't think you should be messing around with things like this
